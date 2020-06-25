@@ -102,8 +102,6 @@
 		2B5587F724A4F9D300095171 = {
 			isa = PBXGroup;
 			children = (
-				2B55883C24A506D200095171 /* Views */,
-				2B55883824A500C500095171 /* View Controllers */,
 				2B55880224A4F9D300095171 /* Tumblab */,
 				2B55881E24A4F9D400095171 /* TumblabTests */,
 				2B55882924A4F9D400095171 /* TumblabUITests */,
@@ -126,6 +124,8 @@
 		2B55880224A4F9D300095171 /* Tumblab */ = {
 			isa = PBXGroup;
 			children = (
+				2B55883C24A506D200095171 /* Views */,
+				2B55883824A500C500095171 /* View Controllers */,
 				2B55880324A4F9D300095171 /* AppDelegate.h */,
 				2B55880424A4F9D300095171 /* AppDelegate.m */,
 				2B55880624A4F9D300095171 /* SceneDelegate.h */,
